@@ -10,4 +10,15 @@ system.out.println("you are not yet old")
 }
 
 #19 else if
-this 
+this statements is used to give java several options to choose from
+if (age > 60)
+system.out.println("you are a senior citizen")
+else if (age >= 50)
+	system.out.println("you are in your 50's")
+else system.out.println("you are young")
+
+#20 conditional operators.
+this is short way to represent the if else. ussually it fits in a straight line.
+system.out.println (age>50 ? "you are old": "you are young")
+
+
