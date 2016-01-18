@@ -21,4 +21,10 @@ else system.out.println("you are young")
 this is short way to represent the if else. ussually it fits in a straight line.
 system.out.println (age>50 ? "you are old": "you are young")
 
+#22 for loops.
+this is an iteration function that allows a function to iterate throug the condition specified.
+for (int counter=1, counter<10; counter++);
+	system.out.println("counter")
+
+
 
