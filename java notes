@@ -1,0 +1,13 @@
+#java
+
+#18 nested if statements
+nested statements are conditional structures that checks if a condition is true then performs the required function.
+if (age < 50){
+system.out.println("you are old");
+else {
+system.out.println("you are not yet old")
+}
+}
+
+#19 else if
+this 
