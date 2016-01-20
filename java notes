@@ -26,5 +26,29 @@ this is an iteration function that allows a function to iterate throug the condi
 for (int counter=1, counter<10; counter++);
 	system.out.println("counter")
 
+#24 do wh‎ile loop
+it executes the body before checking the test condition 
+do {
+	system.out.println(counter);
+
+}while (counter <= 10);
+
+#25 math class
+this class allowsus to use the different mathematical functionalities
+Math.abs() stands for absolute value. it takes any number and gives it the absolute value.
+Math.ceil() stands for ceiling and rounds up any value.
+Math.floor () rounds down the number
+Math.Max () gives the maximum number between two numbers.
+Math.min () gives the minimum number between the two numbers.
+Math.pow () gives the power of number.
+Math.sqrt() it finds the square root of number
+
+#26 Random number generator
+we inmport the random class 
+import jav.util.Random
+
+#27 arrays
+array is a collection of similar variable  grouped together.
+int variable[]= new int [10];
 
 
